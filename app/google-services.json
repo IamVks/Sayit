@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "209843066686",
+    "firebase_url": "https://sayit-android-app.firebaseio.com",
+    "project_id": "sayit-android-app",
+    "storage_bucket": "sayit-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209843066686:android:1244c56be0518ae9",
+        "android_client_info": {
+          "package_name": "com.android.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209843066686-pt1fjsmlpnspbf4sif53s0dvt1dne1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6ZDPppQIHV-hgtNesFcdbp7Ab1Lk9RA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209843066686:android:aa123c75e6074900",
+        "android_client_info": {
+          "package_name": "com.android.technodots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209843066686-pt1fjsmlpnspbf4sif53s0dvt1dne1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6ZDPppQIHV-hgtNesFcdbp7Ab1Lk9RA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
